@@ -1,0 +1,421 @@
+M
+hello
+Hello
+M
+thanks for interested in my project
+thank for replying
+M
+i need someone can help me develop an IOS APP background management system
+can you explain details?
+because the APP develop is just start so it will not too complex
+M
+our competitive products is
+do you have any basic design?
+or do you want me develop from scratch?
+M
+yes
+can you give me idea about background management system?
+basic function is manage the products witch is the user upload to APP market
+M
+manage Users, members and their credits
+How many days for this project?
+our competitive products is called 'Grailed' and this system is for the similar App
+M
+how many days you need to develop this system?
+so you want me develop system similar to grailed?
+M
+no, the system can manage the background of that APP
+oh, sorry
+ok, just a minute. let me have some inspection.
+Hello
+I need a week
+M
+hi
+Is that ok?
+M
+i will contact you when i finish requirement doc after that please let me know how long you need to finish it
+ok, that's much better.
+thank you
+M
+NP
+19 MAR 2020 · 3:32 PM
+M
+i have question for you. are you good at botstrap? we hope it looks dynamic and beautiful
+yes, dont worry.
+Hello
+hi
+M
+can you read chinese?
+Can you send me requirement doc?
+Yes, I can
+M
+we just done our meeting, i still need edit it, will send to you soon
+ok,
+20 MAR 2020 · 11:45 AM
+you don't need do all functions
+please check
+M
+i will provide you UI design
+ok, pls do
+i will provide you UI design
+M
+Did you received my doc?
+sorry no
+M
+
+管理后台.pdf
+thank you
+M
+UI is from codepen
+please tell me where I can find it
+https://codepen.io/Zaku/pen/ejLNJL
+
+image.png
+image.png
+here is main color
+https://codepen.io/prvnbist/pen/GQMPZq
+this is main page style
+M
+this is main page style
+yes, I saw that
+https://codepen.io/bbodine1/pen/hflzK
+M
+login style,but need color change
+Is this urgent?
+M
+not urgent，I just like that style
+I mean the project
+M
+No
+can you give me 20days?
+Then I will make app beautiful
+Sure
+M
+I will follow with you everyday to make sure everything going well
+Yes, you can
+That's what I am doing with every customer I contact
+awesome
+M
+today you can start from Login page, witch is what i give to you
+ok.
+M
+have you read requirement doc?
+yes,
+but can you please what I dont have to do?
+M
+and also check 'Graild ' ?
+yes
+what you need to do is 用户
+M
+part
+ok
+what about 物品part and others?
+after you done first part i will decide to let you to continue orother guy keep going on other part
+https://codepen.io/OurDailyBread/pen/QEJPkO
+M
+here is dashboard still i like and you can use that code and make some change
+yes, you have a good idea
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+This project has a budget of $140.00 CAD and you will be charged a project commission of $14.00 CAD on accept.
+Accept
+thank you
+Vincent K. created a milestone
+Milestone: 'Project milestone'
+Amount: $ 140.00 CAD
+M
+can you send me what you done for each day ?
+Yes, I will send you for every or two days
+M
+Sounds good, so everything is clear? Can you start right now?
+yes, I can
+M
+nice
+thank you
+I have one additional request.
+M
+please say
+If you have threejs or any webgl proejcts, please ask me.
+I have expertise in that field.
+M
+sure
+thank you
+M
+NP
+Accepted!
+You're all set to start working
+22 MAR 2020 · 2:55 PM
+M
+is everything ok？
+Hello
+Its going well
+we have done CRUD of user.
+M
+can you show me screenshot？
+But UI is not so good. I am working on it
+M
+Ok.. I need you send me your code so far tonight is that ok for you?
+One question
+Do you have backend system?
+M
+App? Or management system?
+I mean database.
+Yes we have database
+M
+We use mySQL
+and you need system to be developed by Vue, right?
+M
+Bootstrap or vue
+ok
+can you give me more time?
+I just need the code you write for so far
+Not need you complete all
+M
+No worries
+ok
+tonight I will send you
+M
+Awesome
+Thank you
+23 MAR 2020 · 9:58 AM
+send it to my email yy413419@yahoo.com
+Thx
+I can not install npm
+Hello?
+M
+I think bootstrap template looks beautiful than vue�
+Sorry for the late response
+I was crazily busy preparing 9 peoples lunch.
+Yes, I agree with you.
+I will choose the best option.
+Maybe bootstrap is better.
+Ok
+M
+Can you tell me how to run this project?
+Did you install node.js?
+M
+Yes
+I will send you process txt
+Ok
+M
+Please write it clearly thx
+
+process.txt
+M
+I use Mac...
+I will develop using bootstrap and send you a few days later, ok?
+M
+Ok, I have already checked, it looks not pretty but is good job for 2 days
+Thanks.
+Please use the template I sent to you and 4 mainly color I told you to use
+M
+Thx
+Its my habbit to complete functionality first and then beautify.
+M
+Sure
+Do you want me do develop backend side?
+M
+You mean database?
+yes
+or work only on frontend?
+because I have no link to the system's database, I have to create my own database
+No do the front-end first
+M
+We have MySQL database
+Maybe my own sql database structure little different from the real database. It will take some time to integrate.
+anyway, ok
+I got what you want
+M
+Emm..can we discuss this later?
+yes, sure
+thank you for your time
+M
+Thank you
+24 MAR 2020 · 5:56 PM
+hi, I just wonder to know is everything good? And can you send me your work for these two days? Thank you
+M
+hello？ you there？
+Hello
+M
+hi
+Can you wait until tonight?
+Sure but not too late thx
+I hope processing going little bit fast, show the basic page
+M
+I can send you menu model template for you
+thank you
+M
+i send you an email with a model template please check
+Hello.
+did you send .rp file?
+its ok
+sorry
+M
+Please send it to me your work for so far, thx
+Hello
+M
+hi
+Now I am changing the UI to look like the template you sent.
+N o
+just same menu list
+M
+Not UI can do like the codepen’s code I send to you
+I am so sorry. I thought you want me make UI just like template
+so you mean only menu list from template
+No, the menu list is good, but UI is ugly
+M
+Yes only menu list
+So sorry
+M
+My problem sorry, I will write more clearly next time, you can send me your work tomorrow morning
+yes, sure
+25 MAR 2020 · 9:47 AM
+I did not get your email
+M
+?
+Yes, I send you now.
+
+User-Background-Management-System(3.25).rar
+can you send it by email?
+M
+or can you send me an zip file
+Sorry, my computer's infected by virus.
+It destroyed many valuable data
+Can I give you my work after 2 days? please.
+Now, I have no way to recover my past work
+M
+sorry i need use it tomorrow
+What do you mean?
+Do you want me to finish this project until tomorrow?
+M
+i need use what you done so far to do the report tomorrow
+Oh I see
+M
+not mean you need to finish all features but need show beautiful UI
+OK, then I will try as much as possible.
+what time of tomorrow?
+sure, you can use the templates on codepen, need to change some code but easier
+tomorrow after lunch
+make pages as more as possible, UI must be nice, you should know that all bosses care about apparent gains
+hey bro, i checked your work, it is definitely not ok
+this is what you send to me, you can continue work on it, but it is really not ok
+send you an email
+M
+hello?
+Sorry for late response
+Now, there are many things bothering me
+computer infected by virus, someone is nagging me
+etc.
+sorry, If you have something to tell me, please leave message here.
+If I have one, I will also do that.
+Or you can send me Email.
+Thank you.
+M
+can you keep working on this project?
+Sure,
+Just tiny affairs
+that's your business, the only thing i care is your work is really not ok for so many days
+M
+you there?
+Hello
+M
+yes
+I am replying
+M
+replying?
+I am working
+one question
+tomorrow lunch canada time or chinese time?
+M
+chinese time
+ok
+M
+you sure you got everything?
+Until that time, I will try my best and show you some result
+ok.
+M
+you have to make sure that works must be better right now
+yes.
+26 MAR 2020 · 1:46 PM
+Hello
+I sent via email.
+Thank you
+Ok
+M
+Can not download it
+Can I send here?
+in freelancer?
+File is Too big
+M
+I just try to download it again
+wait a minute.
+I will delete some parts.
+hello, send again in mail
+Run witch file?
+
+This is not what you give to me right?
+M
+
+FL-26-03-2020-03-07-40.JPG
+FL-26-03-2020-03-07-40.JPG
+No what is this?
+Did you see howto.txt?
+Yes
+M
+I do just like what you write
+did you run big one or small one?
+M
+Big one
+maybe external css or js files are not downloaded because your pc connection to internet is not good.
+maybe
+M
+Can you send me screenshot for each page
+ok
+
+image.png
+image.png
+
+image.png
+image.png
+
+Capture1.PNG
+Capture1.PNG
+
+Capture2.PNG
+Capture2.PNG
+
+Capture3.PNG
+Capture3.PNG
+
+Capture4.PNG
+Capture4.PNG
+
+image.png
+image.png
+M
+Can I send you an template and you edit it on that template?
+Ok, please
+M
+this UI can not pass
+yes
+Send
+M
+Btw, we don’t need register functional, just because that table design beauty
+Hello
+Did you send?
+I got nothing.
+send again
+M
+Just demo website you can add some functional
+Sorry, did you send via email?
+I dont get anything
+M
+Yes
+what is the title?
+I dont see anything
+M
+Demo
+can you send in freelancer?
+M
+
+kvsocks_project.zip
