@@ -6,7 +6,7 @@
 ### Prerequisites
 
  * No dependencies required.
- * For design, we referenc the pages of AxureRP (Install AxureRP(Setup file provided) and read 'PC端业务管理系统原型.rp' file. Reference the pages of AxureRP).
+ * For design, we referenced the pages of AxureRP (Install AxureRP(Setup file provided) and read 'PC端业务管理系统原型.rp' file. Reference the pages of AxureRP).
  
 ### Installing
 * Navigate to [User Management Project] directory and run html file accordingly.
