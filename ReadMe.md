@@ -11,10 +11,6 @@
 ### Installing
 * Navigate to [User Management Project] directory and run html file accordingly.
 
-## Authors
-
-* **LongMa Lin**
-
 ## License
 
 This project is licensed under the GIT License
